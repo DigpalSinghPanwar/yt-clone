@@ -1,4 +1,4 @@
-const GOGGLE_API_KEY = "AIzaSyBtKApquZdd44eoJNfP9lrHETIpvaHll7U";
+const GOGGLE_API_KEY = "";
 
 export const WEB_CHAT_COUNT = 10;
 
